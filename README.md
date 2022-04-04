@@ -4,7 +4,7 @@
 - 📫 How to reach me: Email- edikan.i.bassey@gmail.com Twitter- https://twitter.com/mestareddy LinkedIn- https://www.linkedin.com/in/edikan-bassey/
 - ⚡ Fun fact: I Support Real Madrid and i love playing football.
 - 👯 I’m looking to collaborate on new and innovative projects and ideas.
-- - 💬 Ask me about MERN Stack.
+- 💬 Ask me about MERN Stack.
 
 <!--
 **Mestareddy/Mestareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
