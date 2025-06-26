@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Edikan Bassey
 - 🌱 I am a frontend devleper that uses the MERN Stack.
 - 😄 Website: [https://edikan-bassey.vercel.app/](https://edikan-bassey.vercel.app/)
-- 📫 How to reach me: Email- edikan.i.bassey@gmail.com Twitter- https://twitter.com/Theeddikanbassey LinkedIn- https://www.linkedin.com/in/edikan-bassey/
+- 📫 How to reach me: Email- edikan.i.bassey@gmail.com Twitter- [https://twitter.com/Theedikanbassey](https://twitter.com/Theedikanbassey) LinkedIn- [https://www.linkedin.com/in/edikan-bassey/](https://www.linkedin.com/in/edikan-bassey/)
 - ⚡ Fun fact: I Support Real Madrid and i love playing football.
 - 👯 I’m looking to collaborate on new and innovative projects and ideas.
 - 💬 Ask me about MERN Stack.
