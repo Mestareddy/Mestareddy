@@ -86,7 +86,7 @@ I build fast, scalable web applications — from pixel-perfect frontends to robu
 
 <div align="center">
 
-[![Edikan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mestareddy&theme=github-compact&hide_border=true&area=true)](https://github.com/Mestareddy)
+![Edikan's Contribution Calendar](https://ghchart.rshah.org/Mestareddy)
 
 </div>
 
