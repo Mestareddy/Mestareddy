@@ -73,8 +73,14 @@ I build fast, scalable web applications — from pixel-perfect frontends to robu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mestareddy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestareddy&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mestareddy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mestareddy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mestareddy&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
