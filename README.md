@@ -61,33 +61,81 @@ I build fast, well-tested web applications end to end — from pixel-perfect fro
 
 ### Featured work
 
-| Project | What it is | Stack | |
-|---|---|---|---|
-| **Levah** | Retail e-commerce management platform | Next.js · TypeScript · Node.js | [Live ↗](https://www.levah.co/) |
-| **NEP** | National Electrification Project site, Rural Electrification Agency | Next.js · TypeScript · Tailwind | [Live ↗](https://nep.rea.gov.ng/) |
-| **PeerGuard Loans** | Fintech lending platform | Next.js · Node.js · Tailwind | [Live ↗](https://www.peerguardloans.com/) |
-| **Nigerian Carbon Market Academy** | E-learning platform | Next.js · TypeScript | [Live ↗](https://elearning.carbon-enablement.com/) |
-| **Redefinition Network** | Leadership community platform | Next.js · Firebase · Tailwind | [Live ↗](https://redefinition.vercel.app/) |
-| **Excite Trade** | Trading platform | React · Node.js | [Live ↗](https://www.excitetrade.com/) |
-| **Mojec** | Corporate website with headless CMS | React · Sanity | [Live ↗](https://www.mojec.com/) |
-| **Steazforte Limited** | Company website | WordPress | [Live ↗](https://steazforteltd.co.uk/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.levah.co/"><b>Levah</b></a><br />
+      <sub>Retail e-commerce management platform</sub><br /><br />
+      <code>Next.js · TypeScript · Node.js</code><br />
+      <sub><a href="https://www.levah.co/">levah.co ↗</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nep.rea.gov.ng/"><b>NEP · Rural Electrification Agency</b></a><br />
+      <sub>National Electrification Project platform</sub><br /><br />
+      <code>Next.js · TypeScript · Tailwind</code><br />
+      <sub><a href="https://nep.rea.gov.ng/">nep.rea.gov.ng ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.peerguardloans.com/"><b>PeerGuard Loans</b></a><br />
+      <sub>Fintech lending platform</sub><br /><br />
+      <code>Next.js · Node.js · Tailwind</code><br />
+      <sub><a href="https://www.peerguardloans.com/">peerguardloans.com ↗</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://elearning.carbon-enablement.com/"><b>Nigerian Carbon Market Academy</b></a><br />
+      <sub>E-learning platform</sub><br /><br />
+      <code>Next.js · TypeScript</code><br />
+      <sub><a href="https://elearning.carbon-enablement.com/">elearning.carbon-enablement.com ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://redefinition.vercel.app/"><b>Redefinition Network</b></a><br />
+      <sub>Leadership community platform</sub><br /><br />
+      <code>Next.js · Firebase · Tailwind</code><br />
+      <sub><a href="https://redefinition.vercel.app/">redefinition.vercel.app ↗</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.excitetrade.com/"><b>Excite Trade</b></a><br />
+      <sub>Trading platform</sub><br /><br />
+      <code>React · Node.js</code><br />
+      <sub><a href="https://www.excitetrade.com/">excitetrade.com ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.mojec.com/"><b>Mojec</b></a><br />
+      <sub>Corporate site on a headless CMS</sub><br /><br />
+      <code>React · Sanity</code><br />
+      <sub><a href="https://www.mojec.com/">mojec.com ↗</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://steazforteltd.co.uk/"><b>Steazforte Limited</b></a><br />
+      <sub>Company website</sub><br /><br />
+      <code>WordPress</code><br />
+      <sub><a href="https://steazforteltd.co.uk/">steazforteltd.co.uk ↗</a></sub>
+    </td>
+  </tr>
+</table>
 
 <sub>Full portfolio → <a href="https://theedikanbassey.com">theedikanbassey.com</a></sub>
 
 ---
 
-### Languages across every repo I've committed to
+### Languages
 
-<sub>Includes company and organization repositories, not just the ones on this account. Measured from my own commits and refreshed daily.</sub>
+<sub>Across my own, company and organization repositories (PeerGuard-Procurenet, Levah-ops and more). Refreshed daily.</sub>
 
 <div align="center">
-  <img src="/metrics.languages.svg" alt="Languages across all repositories I've contributed to" />
+  <img src="/metrics.languages.svg" alt="Languages across all repositories I've worked on" />
 </div>
 
-### Where I've contributed
+### Organizations I've shipped for
 
 <div align="center">
-  <img src="/metrics.notable.svg" alt="Organizations and repositories I've contributed to" />
+  <img src="/metrics.notable.svg" alt="Organizations I've contributed to" />
 </div>
 
 ---
@@ -97,8 +145,6 @@ I build fast, well-tested web applications end to end — from pixel-perfect fro
 <div align="center">
 
 <img src="/metrics.activity.svg" alt="GitHub stats and contribution calendar" />
-
-<img src="https://streak-stats.demolab.com?user=Mestareddy&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 </div>
 
