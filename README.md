@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=170&section=header&text=Edikan%20Bassey&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Technical%20Lead&descAlignY=60&descSize=16" width="100%" alt="Edikan Bassey" />
 
-<a href="https://edikan-bassey.vercel.app/">
+<a href="https://theedikanbassey.com">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Fintech%2C+e-commerce%2C+media+%26+gov+platforms;Tested%2C+typed%2C+shipped+to+production" alt="Typing intro" />
 </a>
 
 <p>
-  <a href="https://edikan-bassey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://theedikanbassey.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/edikan-bassey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/edikanX"><img src="https://img.shields.io/badge/@edikanX-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:edikan.i.bassey@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -72,7 +72,7 @@ I build fast, well-tested web applications end to end — from pixel-perfect fro
 | **Mojec** | Corporate website with headless CMS | React · Sanity | [Live ↗](https://www.mojec.com/) |
 | **Steazforte Limited** | Company website | WordPress | [Live ↗](https://steazforteltd.co.uk/) |
 
-<sub>Full portfolio → <a href="https://edikan-bassey.vercel.app/">edikan-bassey.vercel.app</a></sub>
+<sub>Full portfolio → <a href="https://theedikanbassey.com">theedikanbassey.com</a></sub>
 
 ---
 
@@ -96,10 +96,9 @@ I build fast, well-tested web applications end to end — from pixel-perfect fro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-mestareddy.vercel.app/api?username=Mestareddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=issues&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Mestareddy&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img src="/metrics.activity.svg" alt="GitHub stats and contribution calendar" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mestareddy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=Mestareddy&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 </div>
 
