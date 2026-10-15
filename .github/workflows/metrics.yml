@@ -41,6 +41,7 @@ jobs:
           plugin_languages_ignored: dockerfile, shell, makefile, batchfile, procfile
 
       - name: Organizations and repos contributed to
+        if: ${{ !cancelled() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.notable.svg
@@ -56,6 +57,7 @@ jobs:
           plugin_notable_types: commit, pull_request
 
       - name: Stats and contribution calendar (replaces rate-limited public cards)
+        if: ${{ !cancelled() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.activity.svg
